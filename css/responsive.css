@@ -1,0 +1,210 @@
+@media only screen and (max-width: 1024px) {
+  .songConatiner {
+    min-height: 70vh;
+    color: white;
+    font-family: "Varela Round", sans-serif;
+    display: flex;
+    margin: 23px auto;
+    width: 75%;
+    padding: 34px;
+    border-radius: 12px;
+    background-image: url(/img/bg1.jpg);
+  }
+  h1 {
+    text-align: center;
+  }
+  .songTracks {
+    height: 46px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    color: black;
+    margin: 12px -20px;
+    border-radius: 34px;
+    width: initial;
+  }
+  .songTracks img {
+    width: 43px;
+    margin: 0 3px;
+    border-radius: 34px;
+    height: 43px;
+  }
+  .songInfo {
+    top: 30px;
+    position: absolute;
+    margin: auto 15px;
+    font-family: "Varela Round", sans-serif;
+  }
+  .playerIcons {
+    margin-top: 30px;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .songConatiner {
+    min-height: 68vh;
+    color: white;
+    font-family: "Varela Round", sans-serif;
+    display: flex;
+    margin: 23px auto;
+    width: 75%;
+    padding: 34px;
+    border-radius: 12px;
+    background-image: url(/img/bg1.jpg);
+  }
+  h1 {
+    text-align: center;
+  }
+  .songTracks {
+    height: 46px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    color: black;
+    margin: 12px -20px;
+    border-radius: 34px;
+    width: initial;
+  }
+  .songTracks img {
+    width: 43px;
+    margin: 0 3px;
+    border-radius: 34px;
+    height: 43px;
+  }
+  .songInfo {
+    top: 30px;
+    position: absolute;
+    margin: auto 15px;
+    font-family: "Varela Round", sans-serif;
+  }
+  .playerIcons {
+    margin-top: 30px;
+  }
+}
+@media only screen and (max-width: 425px) {
+  .songConatiner {
+    min-height: 64vh;
+    color: white;
+    font-family: "Varela Round", sans-serif;
+    display: flex;
+    margin: 23px auto;
+    width: 75%;
+    padding: 34px;
+    border-radius: 12px;
+    background-image: url(/img/bg1.jpg);
+  }
+  h1 {
+    text-align: center;
+  }
+  .songTracks {
+    height: 46px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    color: black;
+    margin: 12px -20px;
+    border-radius: 34px;
+    width: initial;
+  }
+  .songTracks img {
+    width: 43px;
+    margin: 0 3px;
+    border-radius: 34px;
+    height: 43px;
+  }
+  .songInfo {
+    top: 30px;
+    position: absolute;
+    margin: auto 75px;
+    font-family: "Varela Round", sans-serif;
+  }
+  .playerIcons {
+    margin-top: 30px;
+  }
+}
+@media only screen and (max-width: 375px) {
+  .songConatiner {
+    min-height: 65vh;
+    color: white;
+    font-family: "Varela Round", sans-serif;
+    display: flex;
+    margin: 23px auto;
+    width: 75%;
+    padding: 34px;
+    border-radius: 12px;
+    background-image: url(/img/bg1.jpg);
+  }
+  h1 {
+    text-align: center;
+  }
+  .songTracks {
+    height: 46px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    color: black;
+    margin: 12px -20px;
+    border-radius: 34px;
+    width: initial;
+  }
+  .songTracks img {
+    width: 43px;
+    margin: 0 3px;
+    border-radius: 34px;
+    height: 43px;
+  }
+  .songInfo {
+    top: 30px;
+    position: absolute;
+    margin: auto 55px;
+    font-family: "Varela Round", sans-serif;
+  }
+  .playerIcons {
+    margin-top: 30px;
+  }
+}
+@media only screen and (max-width: 320px) {
+  .songConatiner {
+    min-height: 70vh;
+    color: white;
+    font-family: "Varela Round", sans-serif;
+    display: flex;
+    margin: 23px auto;
+    width: 75%;
+    padding: 34px;
+    border-radius: 12px;
+    background-image: url(/img/bg1.jpg);
+  }
+  h1 {
+    text-align: center;
+  }
+  .songTracks {
+    height: 46px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    color: black;
+    margin: 12px -20px;
+    border-radius: 34px;
+    width: initial;
+  }
+  .songTracks img {
+    width: 43px;
+    margin: 0 3px;
+    border-radius: 34px;
+    height: 43px;
+  }
+  .songInfo {
+    top: 30px;
+    position: absolute;
+    margin: auto 15px;
+    font-family: "Varela Round", sans-serif;
+  }
+  .playerIcons {
+    margin-top: 30px;
+  }
+}
